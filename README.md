@@ -1,97 +1,13 @@
 # david-holden1
 
-<h1 align="center">Hi 👋, I'm David Holden</h1>
-
-<h3 align="center">
-Senior Full Stack Engineer | AI Engineer | Cloud Architect
-</h3>
-
-<p align="center">
-Building scalable web applications, AI-powered systems, cloud-native platforms, and modern APIs.
-</p>
-
----
-
-# 🚀 Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-## Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,sass,materialui,figma,vite" />
-</p>
-
-</td>
-
-<td valign="top" width="33%">
-
-## Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express,nestjs,mongodb,postgres,mysql,redis,graphql,firebase" />
-</p>
-
-</td>
-
-<td valign="top" width="33%">
-
-## DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux,git,githubactions,nginx,bash" />
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🤖 AI / Machine Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
-
-- OpenAI API
-- LangChain
-- LangGraph
-- Pinecone
-- RAG
-- LLM Agents
-- Anthropic Claude
-- Google Gemini
-- Vector Databases
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
+My Skill Set
+<table> <tr> <td valign="top" width="33%">
+Frontend
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React" title="React"/> <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36" alt="Next.js" title="Next.js"/> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS"/> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript" title="TypeScript"/> <img src="https://cdn.simpleicons.org/figma/F24E1E" width="36" height="36" alt="Figma" title="Figma"/> <img src="https://cdn.simpleicons.org/html5/E34F26" width="36" height="36" alt="HTML5" title="HTML5"/> <img src="https://cdn.simpleicons.org/redux/764ABC" width="36" height="36" alt="Redux" title="Redux"/> <img src="https://cdn.simpleicons.org/mui/007FFF" width="36" height="36" alt="Material UI" title="Material UI"/> <img src="https://cdn.simpleicons.org/graphql/E10098" width="36" height="36" alt="GraphQL" title="GraphQL"/> <img src="https://cdn.simpleicons.org/css3/1572B6" width="36" height="36" alt="CSS3" title="CSS3"/> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="36" height="36" alt="Chart.js" title="Chart.js"/> </td> <td valign="top" width="33%">
+Backend
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript" title="JavaScript"/> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript" title="TypeScript"/> <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" height="36" alt="Node.js" title="Node.js"/> <img src="https://cdn.simpleicons.org/mongodb/47A248" width="36" height="36" alt="MongoDB" title="MongoDB"/> <img src="https://cdn.simpleicons.org/nginx/009639" width="36" height="36" alt="NGINX" title="NGINX"/> <img src="https://cdn.simpleicons.org/express/000000" width="36" height="36" alt="Express" title="Express"/> <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" title="Python"/> <img src="https://cdn.simpleicons.org/graphql/E10098" width="36" height="36" alt="GraphQL" title="GraphQL"/> <img src="https://cdn.simpleicons.org/mysql/4479A1" width="36" height="36" alt="MySQL" title="MySQL"/> <img src="https://cdn.simpleicons.org/redis/FF4438" width="36" height="36" alt="Redis" title="Redis"/> <img src="https://cdn.simpleicons.org/rubyonrails/D30001" width="36" height="36" alt="Ruby on Rails" title="Ruby on Rails"/> <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" height="36" alt="Firebase" title="Firebase"/> </td> <td valign="top" width="33%">
+DevOps / Cloud
+<img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="36" height="36" alt="AWS" title="AWS"/> <img src="https://cdn.simpleicons.org/linux/FCC624" width="36" height="36" alt="Linux" title="Linux"/> <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git" title="Git"/> <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" title="Docker"/> <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="36" height="36" alt="GCP" title="GCP"/> <img src="https://cdn.simpleicons.org/microsoftazure/0089D6" width="36" height="36" alt="Azure" title="Azure"/> <img src="https://cdn.simpleicons.org/terraform/844FBA" width="36" height="36" alt="Terraform" title="Terraform"/> <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="36" height="36" alt="Kubernetes" title="Kubernetes"/> </td> </tr> </table>
 
 # 🌐 Connect with Me
 - Email:davholden813@gmail.com
