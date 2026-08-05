@@ -94,4 +94,4 @@ Building scalable web applications, AI-powered systems, cloud-native platforms, 
 ---
 
 # 🌐 Connect with Me
-- Email:davholden813@gail.com
+- Email:davholden813@gmail.com
